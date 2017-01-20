@@ -1,2 +1,0 @@
-# ardid2
-Aplicacion
